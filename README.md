@@ -113,20 +113,4 @@ Grouping products into low/medium/bulk weight groups
 
 These are common tasks in e-commerce analytics.
 
-🚀 How You Can Try This
 
-Clone the repo
-
-git clone https://github.com/amlanmohanty/zepto-SQL-data-analysis-project.git
-cd zepto-SQL-data-analysis-project
-
-
-Open the .sql file
-
-Create a PostgreSQL database
-
-Import the CSV (convert to UTF-8 if needed)
-
-Run the SQL file
-
-Explore, modify, and practice your own queries
