@@ -18,9 +18,9 @@ Writing SQL queries to find business insights like stock availability, revenue, 
 
 This is a perfect beginner-friendly SQL project to add to a portfolio.
 
-📁 Dataset Info (Simple Words)
+📁 Dataset Info 
 
-Each row in the dataset is one SKU — basically one product entry on Zepto.
+Each row in the dataset is one SKU basically one product entry on Zepto.
 
 Here are the columns in easy words:
 
